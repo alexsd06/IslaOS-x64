@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "kmalloc.h": "c",
+        "font_lib.h": "c",
+        "string.h": "c",
+        "io.h": "c"
+    }
+}
